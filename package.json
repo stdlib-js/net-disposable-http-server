@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/net-disposable-http-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Disposable HTTP server.",
   "license": "Apache-2.0",
   "author": {
