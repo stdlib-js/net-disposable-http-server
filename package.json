@@ -56,8 +56,7 @@
     "@stdlib/utils-noop": "^0.0.x",
     "@stdlib/utils-open-url": "^0.0.x",
     "debug": "^2.6.9",
-    "minimist": "^1.2.0",
-    "update-notifier": "^1.0.0"
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "proxyquire": "^2.0.0",

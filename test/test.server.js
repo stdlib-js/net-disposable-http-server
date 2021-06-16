@@ -91,8 +91,8 @@ tape( 'the function throws a type error if provided a callback argument which is
 
 tape( 'the function throws an error if an error is encountered while attempting to start a server', function test( t ) {
 	var httpServer = proxyquire( './../lib/server.js', {
-		'@stdlib/net/http-server': createServer,
-		'@stdlib/utils/open-url': noop
+		'@stdlib/net-http-server': createServer,
+		'@stdlib/utils-open-url': noop
 	});
 
 	t.throws( foo, Error, 'throws an error' );
@@ -655,7 +655,7 @@ tape( 'if the `open` option is `true`, the function will attempt to open the con
 	};
 
 	httpServer = proxyquire( './../lib/server.js', {
-		'@stdlib/utils/open-url': openURL
+		'@stdlib/utils-open-url': openURL
 	});
 
 	httpServer( opts, onReady );
