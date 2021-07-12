@@ -46,6 +46,7 @@
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/buffer-ctor": "^0.0.x",
     "@stdlib/buffer-from-string": "^0.0.x",
+    "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/fs-read-file": "^0.0.x",
     "@stdlib/net-http-server": "^0.0.x",
     "@stdlib/process-cwd": "^0.0.x",
@@ -55,10 +56,12 @@
     "@stdlib/utils-next-tick": "^0.0.x",
     "@stdlib/utils-noop": "^0.0.x",
     "@stdlib/utils-open-url": "^0.0.x",
-    "debug": "^2.6.9",
-    "minimist": "^1.2.0"
+    "debug": "^2.6.9"
   },
   "devDependencies": {
+    "@stdlib/assert-is-browser": "^0.0.x",
+    "@stdlib/assert-is-windows": "^0.0.x",
+    "@stdlib/process-exec-path": "^0.0.x",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
