@@ -57,7 +57,8 @@
     "@stdlib/utils-next-tick": "^0.2.1",
     "@stdlib/utils-noop": "^0.2.1",
     "@stdlib/utils-open-url": "^0.2.1",
-    "debug": "^2.6.9"
+    "debug": "^2.6.9",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.1",
