@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-07-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`0d966fa`](https://github.com/stdlib-js/stdlib/commit/0d966faefc68c61aee2e5504b25e8704f514cd21) - **test:** use different ports for each test to avoid already in use errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
