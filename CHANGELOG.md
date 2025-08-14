@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2025-08-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f64bebb`](https://github.com/stdlib-js/stdlib/commit/f64bebbdd05764a88dfcc5897b29edea40005f03) - **refactor:** move folder to `lib` folder _(by Athan Reines)_
 -   [`0d966fa`](https://github.com/stdlib-js/stdlib/commit/0d966faefc68c61aee2e5504b25e8704f514cd21) - **test:** use different ports for each test to avoid already in use errors _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
