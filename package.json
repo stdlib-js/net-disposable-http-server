@@ -51,6 +51,7 @@
     "@stdlib/net-http-server": "^0.2.2",
     "@stdlib/process-cwd": "^0.2.2",
     "@stdlib/process-env": "^0.2.2",
+    "@stdlib/process-node-version": "^0.2.2",
     "@stdlib/process-read-stdin": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/utils-keys": "^0.2.2",
