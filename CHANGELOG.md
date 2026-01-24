@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-22)
+## Unreleased (2026-01-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`56a6ce8`](https://github.com/stdlib-js/stdlib/commit/56a6ce8ba25fe8e1710f04aad9d99696332b7616) - **refactor:** do not require static `byteLength` method _(by Philipp Burckhardt)_
 -   [`1c9a2da`](https://github.com/stdlib-js/stdlib/commit/1c9a2dad4c7ff11aefab03110d9c0fa7ad94e969) - **docs:** update copy _(by Athan Reines)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
