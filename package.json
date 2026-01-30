@@ -48,7 +48,7 @@
     "@stdlib/buffer-from-string": "^0.2.2",
     "@stdlib/cli-ctor": "^0.2.2",
     "@stdlib/fs-read-file": "^0.2.2",
-    "@stdlib/net-http-server": "^0.2.2",
+    "@stdlib/net-http-server": "^0.2.3",
     "@stdlib/process-cwd": "^0.2.2",
     "@stdlib/process-env": "^0.2.2",
     "@stdlib/process-node-version": "^0.2.2",
@@ -102,11 +102,6 @@
     "temporary",
     "temp"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
