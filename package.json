@@ -53,10 +53,10 @@
     "@stdlib/process-env": "^0.2.2",
     "@stdlib/process-node-version": "^0.2.2",
     "@stdlib/process-read-stdin": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.2",
-    "@stdlib/utils-next-tick": "^0.2.2",
-    "@stdlib/utils-noop": "^0.2.2",
+    "@stdlib/utils-next-tick": "^0.2.3",
+    "@stdlib/utils-noop": "^0.2.3",
     "@stdlib/utils-open-url": "^0.2.2",
     "debug": "^2.6.9",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
